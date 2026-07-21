@@ -1,8 +1,8 @@
 {
-  "version": 100,
+  "version": 101,
   "content_hash": "87a0faea0aed3bb8",
   "jp_sha256": "8967402e5d7ac27646a06a8cd2f5458f49b523f3ca05bb7aa1e35757892c3cd3",
   "en_sha256": "f094125ddc4b5b1a68c81f4f55cd9246fdd9e68c7aad17381ff243941cd4ee7b",
-  "updated_at": "2026-07-20T11:50:42Z",
+  "updated_at": "2026-07-21T11:12:19Z",
   "en_source": "tcgdex"
 }
