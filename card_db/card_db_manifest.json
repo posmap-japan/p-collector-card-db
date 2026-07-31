@@ -1,8 +1,8 @@
 {
-  "version": 110,
-  "content_hash": "af9b82f51fc87a2d",
+  "version": 111,
+  "content_hash": "234b3371d9c7552f",
   "jp_sha256": "8967402e5d7ac27646a06a8cd2f5458f49b523f3ca05bb7aa1e35757892c3cd3",
-  "en_sha256": "f5065193093d618788a2c7d36c62ff7bbf66095995097c526f0015fc42ce879a",
-  "updated_at": "2026-07-30T11:13:32Z",
+  "en_sha256": "5d04b14742efc4f60a3c83bee23220b8d177717c78581a119f3a1f9fbfddaa33",
+  "updated_at": "2026-07-31T11:32:14Z",
   "en_source": "tcgdex"
 }
