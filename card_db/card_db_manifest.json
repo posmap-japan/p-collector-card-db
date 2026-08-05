@@ -1,9 +1,9 @@
 {
-  "version": 117,
-  "content_hash": "6042774114a59152",
+  "version": 118,
+  "content_hash": "df37f5f32d504fbd",
   "jp_sha256": "c03164b3755855d5eee6a6b080cbf18e97d6c9d7be6cdd2054d4b64b58715592",
-  "en_sha256": "f02bf31ecc66a0acb9a05b79f62981f57340b1633101caa855626f81b775b66b",
-  "updated_at": "2026-08-04T11:29:28Z",
+  "en_sha256": "d16faa2359bd93ee15563ceae0c2a24f888b9b6757527de2d00651ef8167cb37",
+  "updated_at": "2026-08-05T11:25:00Z",
   "en_source": "tcgdex",
   "jp_source": "tcgdex-data-asia"
 }
