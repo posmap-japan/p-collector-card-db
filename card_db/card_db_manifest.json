@@ -1,9 +1,9 @@
 {
-  "version": 170,
+  "version": 171,
   "content_hash": "27d72d1c0a2e5431",
   "jp_sha256": "d3b170f79c06469692f4a50837d02ae88c9c5f5053bb4491f39261a4ca70ba23",
   "en_sha256": "98823dfcef751b675ee8ea0b526a29463ca8fee433181923b07d122300820e87",
-  "updated_at": "2026-09-26T13:42:11Z",
+  "updated_at": "2026-09-27T14:38:17Z",
   "en_source": "tcgdex",
   "jp_source": "tcgdex-data-asia"
 }
